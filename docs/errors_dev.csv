@@ -1,0 +1,38 @@
+id,text,label,language,hard,pred
+7,Where is my order #4582?? been waiting a week,order_status,en,0,complaint
+25,"Worst online shop ever, never buying from here again",complaint,en,0,other
+111,"Dah 2 minggu status under custom clearance, ada problem ke barang saya?",order_status,mixed,1,complaint
+67,Ada warranty berapa lama untuk powerbank ni sis?,product_enquiry,bm,0,other
+69,Scammer ke apa ni? Order lain dapat barang murah lain!,complaint,bm,1,order_status
+64,Received expired food items! Expiry date was last month wei!,complaint,en,0,order_status
+30,Test 123,other,en,0,product_enquiry
+103,Where can I upload my bank slip for manual verification?,payment_issue,en,0,order_status
+82,Weight limit untuk foldable chair ni berapa kg max boleh tampung?,product_enquiry,mixed,0,complaint
+73,I was double billed on GrabPay for transaction #7741,payment_issue,en,0,order_status
+29,Kenapa bagi warna salah ni?? Saya order navy blue dapat hitam!,complaint,bm,1,order_status
+172,"Received wrong item, ordered blue sneakers but received yellow sandals!",complaint,en,1,order_status
+76,"Abang posmen kata dah pulang balik kat seller, kenapa pulak? Alamat betul je",order_status,bm,0,complaint
+38,Why did you charge me RM15 shipping when the promo says free shipping?!,payment_issue,en,1,other
+196,Boleh rekomen kedai kopi sedap dekat area warehouse korang tak?,other,bm,0,order_status
+160,"I accidentally paid twice using Atome installment, pls cancel one",payment_issue,en,0,order_status
+185,CS agent balas dgn nada sombong pastu terus close ticket tanpa selesaikan masalah!,complaint,mixed,0,other
+189,Semoga bisnes korang bertambah maju dan dimurahkan rezeki,other,bm,0,complaint
+35,"Terima kasih daun keladi, nanti saya repeat order lagi 🥰",other,mixed,0,order_status
+183,"Order dah cancelled sendiri oleh seller tapi takde sebarang notis awal, menyusahkan orang!",complaint,mixed,1,order_status
+135,I received shipping notification but no tracking code was attached,order_status,en,0,payment_issue
+99,"Mangkuk hayun betul hantar barang tiruan, kata original!",complaint,bm,0,order_status
+133,"Please hold my shipment at J&T branch, I'm currently out of town",order_status,en,0,payment_issue
+105,Bolehkah saya drop resume untuk jawatan part time sales assistant?,other,bm,0,product_enquiry
+150,Do you provide bubble wrap packaging or need to add-on extra payment?,product_enquiry,en,1,payment_issue
+134,Berapa lama anggaran masa penghantaran ke Tawau Sabah ye?,order_status,bm,0,product_enquiry
+79,Korang janji delivery 2 days tapi dah 10 hari habuk pun tak nampak!,complaint,mixed,0,order_status
+78,Dah hantar gambar resit bayaran kat web tapi tak dapat emel pengesahan pun,payment_issue,bm,0,order_status
+117,Apa beza version Pro dengan version Standard selain bateri?,product_enquiry,mixed,0,complaint
+98,Kenapa harga dlm cart lain bila sampai page checkout ada extra charge RM12?,payment_issue,mixed,1,complaint
+17,Abg posmen ckp dah delivered tapi kat luar rumah takde barang pun??,order_status,mixed,1,complaint
+131,"Min, tracking number DHL sy tak boleh trace langsung kat website diorang",order_status,mixed,0,complaint
+147,Warna emerald green tu gelap macam dlm gambar ke terang sikit?,product_enquiry,bm,0,complaint
+148,Is this frying pan safe for induction cooker and dishwasher?,product_enquiry,en,0,payment_issue
+84,"Item missing 2 bottles from my 5-bottle bundle order, check your CCTV please!",complaint,en,0,order_status
+62,Boleh buat custom engraving nama tak atas casing telefon ni?,product_enquiry,bm,0,order_status
+200,Can I get your company corporate registration number for reference?,other,en,0,payment_issue
