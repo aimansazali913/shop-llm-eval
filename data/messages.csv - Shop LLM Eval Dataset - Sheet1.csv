@@ -1,0 +1,201 @@
+id,text,label,language,hard
+1,Boleh check order saya dah sampai mana?,order_status,bm,0
+2,"Harga baju ni berapa ye, ada size L tak?",product_enquiry,bm,0
+3,"Bro my parcel belum sampai lagi, dah 5 hari",order_status,mixed,0
+4,Dah bayar tapi system kata unpaid,payment_issue,mixed,0
+5,"Barang rosak, teruk betul service korang",complaint,bm,0
+6,"Thanks, semua ok!",other,mixed,0
+7,Where is my order #4582?? been waiting a week,order_status,en,0
+8,"Sis, seluar hitam tu restock bila?",product_enquiry,bm,0
+9,I got charged twice on my credit card pls refund asap!!,payment_issue,en,0
+10,"Penghantaran lambat gila, kotak pun kemek 😡",complaint,bm,0
+11,Hi good morning admin,other,en,0
+12,"Tracking number tak jalan pun sejak semalam, boleh tolong check?",order_status,mixed,0
+13,Do you guys have this hoodie in XL? and how much shipping to Sabah,product_enquiry,en,0
+14,"Duit dah tolak dari bank tapi order cancelled, nak refund balik!",payment_issue,mixed,1
+15,Kualiti kain nipis sangat tak berbaloi langsung dgn harga,complaint,bm,0
+16,Ok noted tq bos 👍,other,mixed,0
+17,Abg posmen ckp dah delivered tapi kat luar rumah takde barang pun??,order_status,mixed,1
+18,Is this material 100% cotton or polyester?,product_enquiry,en,0
+19,FPX payment failed tadi tapi duit dah deduct macam mana ni,payment_issue,mixed,0
+20,"Very disappointed with the customer service, nobody replied my DM",complaint,en,0
+21,Selamat hari raya maaf zahir batin!,other,bm,0
+22,Order saya sangkut kat hub Klang dah 3 hari tak gerak,order_status,bm,0
+23,Kalau beli 3 helai dapat diskaun tak min?,product_enquiry,bm,0
+24,Barang sampai pecah pastu bila minta refund buat bodoh je!,payment_issue,mixed,1
+25,"Worst online shop ever, never buying from here again",complaint,en,0
+26,"Salam sis, boleh bagi ukuran bahu untuk saiz M?",product_enquiry,bm,0
+27,"My order #9910 still processing since Monday, bila nak ship out?",order_status,mixed,0
+28,"Payment sy sangkut kat page Toyyibpay, kena bayar sekali lagi ke?",payment_issue,mixed,0
+29,Kenapa bagi warna salah ni?? Saya order navy blue dapat hitam!,complaint,bm,1
+30,Test 123,other,en,0
+31,When will my parcel arrive? Need it before Friday for event,order_status,en,0
+32,Kasut ni cutting kecik ke standard? Kaki saya 26cm,product_enquiry,mixed,0
+33,"Tolong semak resit bayaran saya, dah transfer RM55 tadi",payment_issue,bm,0
+34,"Jahitan koyak tepi lengan, memang tak check QC ke sebelum pos??",complaint,mixed,0
+35,"Terima kasih daun keladi, nanti saya repeat order lagi 🥰",other,mixed,0
+36,"J&T peram barang aku kat gudang berapa lama lagi weh, tolong push kejap",order_status,mixed,1
+37,How much is the postage fee to Singapore?,product_enquiry,en,0
+38,Why did you charge me RM15 shipping when the promo says free shipping?!,payment_issue,en,1
+39,Admin sombong gila balas chat sepatah je malas layan,complaint,bm,0
+40,Hello,other,en,0
+41,Boleh tukar alamat penghantaran tak? Parcel belum keluar lagi kan,order_status,bm,1
+42,Ada warna maroon tak untuk tudung bawal bidang 45?,product_enquiry,bm,0
+43,"Refund saya dah 2 minggu tak masuk akaun lagi, janji 3 hari bekerja je!",payment_issue,mixed,1
+44,"Barang lambat, kualiti teruk, menyesal beli!",complaint,bm,0
+45,"Good job team, fast delivery!",other,en,0
+46,"Hi, parcel saya status 'Out for Delivery' dari pagi tadi, bila abang posmen nak sampai?",order_status,mixed,0
+47,Kasut ni sesuai utk lari marathon tak? Tapak dia lembut ke?,product_enquiry,bm,0
+48,"Saya tersalah transfer dua kali ke akaun Maybank seller, tolong pulangkan balik RM120",payment_issue,bm,0
+49,"Service chat lembap nak mampus, bot je jawab dari tadi",complaint,bm,0
+50,Hi admin ada sesiapa tak?,other,bm,0
+51,Can I get the live tracking link for order #8821?,order_status,en,0
+52,Is this serum suitable for sensitive and acne prone skin?,product_enquiry,en,0
+53,Card was debited RM250 but my order status shows payment expired,payment_issue,en,0
+54,"The bottle leaked all over inside the box, totally unacceptable!",complaint,en,0
+55,"Thank you for the fast response, appreciate it!",other,en,0
+56,"Min, courier ape ye yg hantar barang ke Kota Bharu?",order_status,bm,0
+57,Baju kurung moden ni ada zip belakang ke nursing friendly?,product_enquiry,bm,0
+58,"Tadi bayar guna ShopeePay tapi keluar error, duit dah deducted pulak tu",payment_issue,mixed,0
+59,"Kotak kemek teruk sampai isi dlm hancur lebur, packaging langsung takde bubble wrap",complaint,bm,0
+60,Selamat petang sis,other,bm,0
+61,"Dah seminggu order no #3412 tak pos lagi, seller tidur ke ape?",order_status,bm,1
+62,Boleh buat custom engraving nama tak atas casing telefon ni?,product_enquiry,bm,0
+63,Voucher code 20% OFF tak apply masa checkout padahal min spend dah cukup RM100!,payment_issue,mixed,1
+64,Received expired food items! Expiry date was last month wei!,complaint,en,0
+65,"Thumbs up, recommended seller 👍👍",other,en,0
+66,Poslaju tracking kata recipient not at home padahal seharian saya tunggu kat ruang tamu!,order_status,mixed,1
+67,Ada warranty berapa lama untuk powerbank ni sis?,product_enquiry,bm,0
+68,"Saya apply refund since Monday, status still pending approval. Lama lagi ke kena tunggu?",payment_issue,mixed,0
+69,Scammer ke apa ni? Order lain dapat barang murah lain!,complaint,bm,1
+70,Hahaha lawak la caption IG korang 😂,other,bm,0
+71,"Any update on shipment to Miri, Sarawak? Tracking stalled since 3 days ago",order_status,en,0
+72,Does this wireless earbuds come with type-c charging cable?,product_enquiry,en,0
+73,I was double billed on GrabPay for transaction #7741,payment_issue,en,0
+74,Driver simply threw the package over the gate and broke my item!,complaint,en,1
+75,Can I speak to a real human agent please?,other,en,0
+76,"Abang posmen kata dah pulang balik kat seller, kenapa pulak? Alamat betul je",order_status,bm,0
+77,Sis material kain ni ironless ke? Senang renyuk tak?,product_enquiry,bm,0
+78,Dah hantar gambar resit bayaran kat web tapi tak dapat emel pengesahan pun,payment_issue,bm,0
+79,Korang janji delivery 2 days tapi dah 10 hari habuk pun tak nampak!,complaint,mixed,0
+80,"Tqsm sis barang dah selamat sampai petang tadi, comel sangat! ❤️",other,bm,0
+81,"Hi, boleh check order saya #6620 dah dispatch keluar dari warehouse belum?",order_status,mixed,0
+82,Weight limit untuk foldable chair ni berapa kg max boleh tampung?,product_enquiry,mixed,0
+83,Kenapa payment gateway kata rejected sedangkan credit card limit banyak lagi?,payment_issue,mixed,0
+84,"Item missing 2 bottles from my 5-bottle bundle order, check your CCTV please!",complaint,en,0
+85,"Just checking in, hope you guys have a great weekend",other,en,0
+86,Bila kurier nak ambil barang saya ye? Dah 2 hari status sedia untuk dihantar,order_status,bm,0
+87,Skincare ni HALAL Jakim certified ke? Sesuai utk solat?,product_enquiry,mixed,0
+88,"Saya nak cancel order #8831 sbb salah transfer duit, tolong proceed refund",payment_issue,bm,1
+89,Baju berbau hapak gila macam simpan dlm stor berhabuk bertahun-tahun!,complaint,bm,0
+90,Selamat menyambut bulan Ramadan al-Mubarak,other,bm,0
+91,Can I change my delivery address? I moved to a new condo this week,order_status,en,0
+92,Do you have ready stock for color beige in size 39?,product_enquiry,en,0
+93,Bank already confirmed deduction but merchant side says transaction failed,payment_issue,en,0
+94,"Poor customer attitude, rude reply from your WhatsApp staff",complaint,en,0
+95,Assalam admin kedai bukak pukul berapa ye harini?,other,bm,0
+96,Tolong check barang sy no tracking MY1239847291 sangkut kat mana,order_status,bm,0
+97,Periuk elektrik ni boleh guna utk steam kuih sekali ke?,product_enquiry,bm,0
+98,Kenapa harga dlm cart lain bila sampai page checkout ada extra charge RM12?,payment_issue,mixed,1
+99,"Mangkuk hayun betul hantar barang tiruan, kata original!",complaint,bm,0
+100,Happy Chinese New Year to the team! Gong Xi Fa Cai 🧧,other,en,0
+101,How many more working days to deliver to Penang island?,order_status,en,0
+102,Can this monitor arm support a 34 inch ultrawide curved screen?,product_enquiry,en,0
+103,Where can I upload my bank slip for manual verification?,payment_issue,en,0
+104,"Teruk betul packaging seller ni, wrap sekadar ada je barang calar balar",complaint,bm,0
+105,Bolehkah saya drop resume untuk jawatan part time sales assistant?,other,bm,0
+106,"Parcel dah sampai delivery hub Cheras semalam, boleh self pick-up tak?",order_status,mixed,0
+107,Blouse ni labuh sampai mana sis kalau tinggi 160cm?,product_enquiry,bm,0
+108,"Dah seminggu minta duit balik sebab barang habis stok, senyap sunyi je",payment_issue,bm,0
+109,"Never seen such terrible after-sales service, nobody taking responsibility",complaint,en,0
+110,Terima kasih banyak atas servis yang tiptop!,other,bm,0
+111,"Dah 2 minggu status under custom clearance, ada problem ke barang saya?",order_status,mixed,1
+112,Kalau saya beli 10 boxes dapat free postage tak boss?,product_enquiry,mixed,0
+113,"Duit dalam e-wallet dah tolak tapi order kena auto cancel, refund balik sekarang!",payment_issue,mixed,1
+114,"Jual barang fake tapi claim authentic, saya nak report KPDNKK!",complaint,mixed,1
+115,"Hi boss, keep up the good work!",other,en,0
+116,Nak semak status penghantaran pesanan #4928,order_status,bm,0
+117,Apa beza version Pro dengan version Standard selain bateri?,product_enquiry,mixed,0
+118,CIMB Clicks timeout masa authorize tapi akaun dah tolak RM75,payment_issue,mixed,0
+119,"Baju saiz S tapi bila ukur besar macam XL, cutting memang ke laut ke?",complaint,mixed,1
+120,Salam Jumaat penghulu segala hari,other,bm,0
+121,Korang ada cawangan fizikal kat Penang tak selain online shop?,other,mixed,0
+122,Beg ni kalis air tak if hujan lebat sangat?,product_enquiry,mixed,0
+123,Why my Touch n Go payment potong dua kali for single order?,payment_issue,mixed,0
+124,"Barang sampai dah patah dua, rugi duit aku beli kat kedai korang!",complaint,bm,0
+125,"Hi bro, ada kerja kosong tak kat warehouse korang?",other,mixed,0
+126,"Barang saya tulis out for delivery dari 2 hari lepas, tapi driver tak sampai2 pun",order_status,bm,0
+127,Hi can you expedite my parcel? Flying overseas next Monday,order_status,en,0
+128,"Status parcel kat NinjaVan stated returned, macam mana saya nak re-deliver?",order_status,mixed,1
+129,Boleh bagi nombor telefon abang courier yang handle parcel saya?,order_status,bm,0
+130,Is order #5021 already dispatched from Penang sorting facility?,order_status,en,0
+131,"Min, tracking number DHL sy tak boleh trace langsung kat website diorang",order_status,mixed,0
+132,"Order #9924 dah seminggu status to ship, bila seller nak hantar keluar?",order_status,mixed,0
+133,"Please hold my shipment at J&T branch, I'm currently out of town",order_status,en,0
+134,Berapa lama anggaran masa penghantaran ke Tawau Sabah ye?,order_status,bm,0
+135,I received shipping notification but no tracking code was attached,order_status,en,0
+136,"Parcel tersalah hantar ke alamat lama, boleh redirect tak sekarang?",order_status,mixed,1
+137,"Dah sampai hub Shah Alam semalam, hari ni boleh dapat tak agak2?",order_status,bm,0
+138,Can I self-collect my order from your Subang warehouse today?,order_status,en,0
+139,Pesanan saya #7810 bila nak pos keluar? Nak pakai weekend ni,order_status,bm,0
+140,Pihak kurier ada update tak kenapa parcel sangkut kat transit center?,order_status,bm,0
+141,Tudung ni kain bawal chiffon ke satin silk?,product_enquiry,bm,0
+142,Does this blender come with Malaysia 3-pin plug or 2-pin?,product_enquiry,en,0
+143,Kalau beli casing ni boleh fit tak dengan tempered glass full coverage?,product_enquiry,mixed,0
+144,Baju melayu teluk belanga ni ada poket kat seluar tak?,product_enquiry,bm,0
+145,What is the battery capacity and standby time for this smartwatch?,product_enquiry,en,0
+146,Kasut safety ni SIRIM approved tak bos? Ada sijil pengesahan?,product_enquiry,mixed,0
+147,Warna emerald green tu gelap macam dlm gambar ke terang sikit?,product_enquiry,bm,0
+148,Is this frying pan safe for induction cooker and dishwasher?,product_enquiry,en,0
+149,Kalau berat badan 75kg tinggi 170cm sesuai ambil saiz apa ye sis?,product_enquiry,bm,0
+150,Do you provide bubble wrap packaging or need to add-on extra payment?,product_enquiry,en,1
+151,Serum ni sesuai tak pakai kalau tengah breakout teruk?,product_enquiry,mixed,0
+152,Boleh guna bateri rechargeable ke kena pakai bateri AA biasa?,product_enquiry,mixed,0
+153,Adakah periuk tanah liat ini tahan api dapur gas terus?,product_enquiry,bm,0
+154,Can I request gift box wrapping and birthday message card?,product_enquiry,en,0
+155,"Kalau barang tak muat saiz, boleh tukar ke atau kena minta refund?",product_enquiry,bm,1
+156,Saya bayar guna FPX Bank Islam duit dah potong tapi status order masih 'Unpaid',payment_issue,mixed,0
+157,My credit card was charged RM180 but got payment error on website,payment_issue,en,0
+158,"Dah seminggu seller approve return barang, bila duit refund nak masuk akaun?",payment_issue,mixed,1
+159,"Resit pindahan segera RM150 dah emel tadi, tolong sahkan pembayaran",payment_issue,bm,0
+160,"I accidentally paid twice using Atome installment, pls cancel one",payment_issue,en,0
+161,"Admin, kenapa baucar diskaun RM30 tak tolak jumlah dlm invois?",payment_issue,bm,0
+162,"Payment gateway DuitNow QR error 504, duit tolak tapi pesanan hilang",payment_issue,mixed,0
+163,Why did my refund amount get deducted RM10 without explanation?,payment_issue,en,1
+164,Saya nak minta resit rasmi berformat PDF untuk claim syarikat,payment_issue,mixed,0
+165,Duit baki RM20 tak dipulangkan dalam bungkusan macam yg dijanjikan,payment_issue,bm,1
+166,Kenapa akaun Maybank tolak RM65 sedangkan barang harganya RM55?,payment_issue,bm,0
+167,Payment declined by merchant system even though OTP entered correctly,payment_issue,en,0
+168,Sistem cakap bayaran gagal padahal dah dapat SMS penolakan dari bank,payment_issue,bm,0
+169,Tolong refund balik balance shipping fee sebab barang pos guna standard bukan express,payment_issue,mixed,0
+170,Bolehkah saya buat pembayaran ansuran bulanan tanpa kad kredit?,payment_issue,bm,0
+171,"Barang sampai dah patah seribu, packaging langsung takde balut bubble wrap!",complaint,bm,0
+172,"Received wrong item, ordered blue sneakers but received yellow sandals!",complaint,en,1
+173,"Kain nipis macam kain kapan, gambar nampak elok realiti hauk gila!",complaint,bm,0
+174,"Driver baling parcel sampai pecah kaca kat dlm, pastu lari macam tu je!",complaint,mixed,0
+175,"Horrible experience, item took 3 weeks and arrived damaged!",complaint,en,0
+176,"Seller menipu, kata bateri tahan 12 jam tapi baru 1 jam dah flat!",complaint,bm,0
+177,"Chat langsung tak berbalas dah 4 hari, memang tak hargai customer langsung",complaint,mixed,0
+178,Missing 3 items from my order and seller refuses to take responsibility,complaint,en,1
+179,Kasut berbau gam kuat sangat dan tapak kasut dah tertanggal masa buka kotak,complaint,bm,0
+180,"Baju ada kesan kotoran minyak hitam, tak check ke sebelum bungkus?!",complaint,bm,0
+181,"Expired product sent to me, smells sour and foul!",complaint,en,0
+182,"Zip beg rosak tak boleh tutup, kualiti langsung tak setaraf dengan harga RM150!",complaint,bm,0
+183,"Order dah cancelled sendiri oleh seller tapi takde sebarang notis awal, menyusahkan orang!",complaint,mixed,1
+184,"Dah la pos lambat, dapat barang reject pulak tu. Sangat mengecewakan",complaint,bm,0
+185,CS agent balas dgn nada sombong pastu terus close ticket tanpa selesaikan masalah!,complaint,mixed,0
+186,"Selamat pagi min, semoga hari ini ceria selalu",other,bm,0
+187,"Hi, just dropping by to say your products are amazing, love them!",other,en,0
+188,"Tq bos barang dah receive, packaging mmg tiptop kemas gila 👍",other,mixed,0
+189,Semoga bisnes korang bertambah maju dan dimurahkan rezeki,other,bm,0
+190,"Hello team, looking forward to your next live streaming session",other,en,0
+191,"Salam min, ada peluang kolaborasi review produk dlm TikTok tak?",other,mixed,0
+192,"Hahaha comel betul free gift sticker kucing tu, anak saya suka sangat",other,bm,0
+193,"Awesome store, will definitely purchase again in the future!",other,en,0
+194,Salam Maal Hijrah kepada semua warga kerja kedai,other,bm,0
+195,Korang ada buat giveaway sempena raya haji nanti tak?,other,mixed,0
+196,Boleh rekomen kedai kopi sedap dekat area warehouse korang tak?,other,bm,0
+197,"Thank you so much for the free gift, really appreciate it!",other,en,0
+198,"Wah cantiknya flyer promo baru ni, design kreatif sangat",other,bm,0
+199,"Saya minat nak jadi dropshipper untuk produk ni, ada yuran pendaftaran ke?",other,mixed,1
+200,Can I get your company corporate registration number for reference?,other,en,0
