@@ -1,0 +1,42 @@
+{
+  "n": 25,
+  "correct": 18,
+  "accuracy": 0.72,
+  "accuracy_ci": [
+    0.5242302810344169,
+    0.8571632616261843
+  ],
+  "macro_f1": 0.6949206349206349,
+  "model": "tfidf-logreg",
+  "prompt": "none",
+  "split": "adversarial",
+  "invalid_rate": 0.0,
+  "mean_seconds": 0.0,
+  "preds": [
+    "product_enquiry",
+    "payment_issue",
+    "complaint",
+    "order_status",
+    "complaint",
+    "order_status",
+    "payment_issue",
+    "order_status",
+    "payment_issue",
+    "order_status",
+    "other",
+    "payment_issue",
+    "product_enquiry",
+    "order_status",
+    "order_status",
+    "other",
+    "payment_issue",
+    "product_enquiry",
+    "order_status",
+    "other",
+    "other",
+    "payment_issue",
+    "product_enquiry",
+    "payment_issue",
+    "other"
+  ]
+}

@@ -11,7 +11,7 @@ dev = pd.read_csv('data/dev.csv')  # Load the specified split
 model = make_pipeline(TfidfVectorizer(analyzer='char_wb', ngram_range=(2, 5)), LogisticRegression(max_iter=1000))
 if split == 'dev':
     truth = dev['label'].tolist()
-    preds = list(cross_val_predict(model, dev['text'], dev['label'], cv=5))
+    preds = list(cross_val_predict(model, dev['text'].to_numpy(), dev['label'], cv=5))
 else:
     other = pd.read_csv('data/' + split + '.csv')
     model.fit(dev['text'], dev['label'])
