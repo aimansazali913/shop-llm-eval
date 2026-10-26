@@ -1,0 +1,42 @@
+{
+  "n": 25,
+  "correct": 17,
+  "accuracy": 0.68,
+  "accuracy_ci": [
+    0.48409913734576715,
+    0.8279501248310887
+  ],
+  "macro_f1": 0.6870634920634922,
+  "model": "llama3.2:3b",
+  "prompt": "defs",
+  "split": "adversarial",
+  "invalid_rate": 0.0,
+  "mean_seconds": 8.004,
+  "preds": [
+    "order_status",
+    "payment_issue",
+    "complaint",
+    "order_status",
+    "other",
+    "order_status",
+    "complaint",
+    "order_status",
+    "order_status",
+    "order_status",
+    "order_status",
+    "order_status",
+    "product_enquiry",
+    "order_status",
+    "complaint",
+    "other",
+    "payment_issue",
+    "product_enquiry",
+    "order_status",
+    "product_enquiry",
+    "other",
+    "product_enquiry",
+    "product_enquiry",
+    "order_status",
+    "other"
+  ]
+}

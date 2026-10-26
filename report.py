@@ -5,5 +5,5 @@ print('|---|---|---|---|---|---|---|---|---|')
 for path in sorted(glob.glob('results/*.json')):
     r = json.load(open(path, encoding='utf-8'))
     print('| %s | %s | %s | %d | %.3f | %.3f-%.3f | %.3f | %.2f | %.2f |' % (
-        r['model'], r['prompt'], r['split'], r['n'], r['accuracy'], r['ci_low'], r['ci_high'],
+        r['model'], r['prompt'], r['split'], r['n'], r['accuracy'], r['accuracy_ci'][0], r['accuracy_ci'][1],
         r['macro_f1'], r['invalid_rate'], r['mean_seconds']))

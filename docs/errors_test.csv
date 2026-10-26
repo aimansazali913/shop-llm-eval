@@ -1,0 +1,16 @@
+id,text,label,language,hard,pred
+118,CIMB Clicks timeout masa authorize tapi akaun dah tolak RM75,payment_issue,mixed,0,order_status
+108,"Dah seminggu minta duit balik sebab barang habis stok, senyap sunyi je",payment_issue,bm,0,complaint
+24,Barang sampai pecah pastu bila minta refund buat bodoh je!,payment_issue,mixed,1,complaint
+164,Saya nak minta resit rasmi berformat PDF untuk claim syarikat,payment_issue,mixed,0,order_status
+174,"Driver baling parcel sampai pecah kaca kat dlm, pastu lari macam tu je!",complaint,mixed,0,order_status
+39,Admin sombong gila balas chat sepatah je malas layan,complaint,bm,0,other
+75,Can I speak to a real human agent please?,other,en,0,order_status
+165,Duit baki RM20 tak dipulangkan dalam bungkusan macam yg dijanjikan,payment_issue,bm,1,order_status
+119,"Baju saiz S tapi bila ukur besar macam XL, cutting memang ke laut ke?",complaint,mixed,1,order_status
+97,Periuk elektrik ni boleh guna utk steam kuih sekali ke?,product_enquiry,bm,0,other
+121,Korang ada cawangan fizikal kat Penang tak selain online shop?,other,mixed,0,product_enquiry
+156,Saya bayar guna FPX Bank Islam duit dah potong tapi status order masih 'Unpaid',payment_issue,mixed,0,order_status
+68,"Saya apply refund since Monday, status still pending approval. Lama lagi ke kena tunggu?",payment_issue,mixed,0,order_status
+114,"Jual barang fake tapi claim authentic, saya nak report KPDNKK!",complaint,mixed,1,invalid
+122,Beg ni kalis air tak if hujan lebat sangat?,product_enquiry,mixed,0,other
